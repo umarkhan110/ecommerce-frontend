@@ -20,12 +20,9 @@
     "react-scroll": "^1.8.7",
     "react-select": "^5.4.0",
     "redux-persist": "^6.0.0",
-<<<<<<< HEAD
     "styled-components": "^5.3.5",
     "workbox-streams": "^6.5.3"
-=======
-    "styled-components": "^5.3.5"
->>>>>>> e35dbcfc3c329a6b0d0bdd9258cd525d42194870
+
   },
   "devDependencies": {
     "react-scripts": "^5.0.1"
